@@ -1,8 +1,8 @@
 # getting-started-with-makefun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/kh43/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/kh43/getting-started-with-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Kh43t/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/Kh43t/getting-started-with-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 Your AI coding agent can write software while you sleep. make.fun is the place
 that pays you for what it builds — real cash rewards, in USDC on Solana, for
